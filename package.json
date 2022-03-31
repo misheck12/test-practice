@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kosher9/test_practice.git"
+    "url": "git+https://github.com/misheck12/test-practice.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kosher9/test_practice/issues"
+    "url": "https://github.com/misheck12/test-practice/issues"
   },
-  "homepage": "https://github.com/kosher9/test_practice#readme",
+  "homepage": "https://github.com/misheck12/test-practice#readme",
   "devDependencies": {
     "jest": "^27.5.1"
   },
